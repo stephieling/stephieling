@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello World! 👋
+
+I am still a Computational Systems Student :D But I am looking forward to learning! 
+I dont chat a lot, but rest assured I will be silently reading all of your Posts and Projects ;)
 
 <!--
 **stephieling/stephieling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
